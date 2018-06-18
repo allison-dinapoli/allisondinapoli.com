@@ -845,7 +845,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var siteInProgress = _react2.default.createElement(
   'div',
-  { style: { textSize: "30px" } },
+  { style: { fontSize: "30px" } },
   'This site is currently in progress. Please check back soon'
 );
 var page = _react2.default.createElement(
