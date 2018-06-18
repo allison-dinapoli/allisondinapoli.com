@@ -843,10 +843,17 @@ var _base2 = _interopRequireDefault(_base);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+var siteInProgress = _react2.default.createElement(
+  'div',
+  { style: { textSize: "30px" } },
+  'This site is currently in progress. Please check back soon'
+);
 var page = _react2.default.createElement(
   'div',
   null,
-  'Allison DiNapoli'
+  'Allison DiNapoli',
+  _react2.default.createElement('br', null),
+  siteInProgress
 );
 
 _reactDom2.default.render(_react2.default.createElement(_base2.default, { content: page }), document.getElementById('react-base'));
