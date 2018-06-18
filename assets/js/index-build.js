@@ -20248,17 +20248,17 @@ var Base = function (_React$Component) {
             var linkedIn = _react2.default.createElement(
                 "a",
                 { href: "https://www.linkedin.com/in/allison-dinapoli" },
-                _react2.default.createElement("img", { src: "./assets/img/linkedin.svg", style: { width: "40px", maxWidth: "10%", maxHeight: "10%" } })
+                _react2.default.createElement("img", { src: "./assets/img/linkedin.svg", style: { width: "35px", maxWidth: "10%", maxHeight: "10%" } })
             );
             var email = _react2.default.createElement(
                 "a",
                 { href: "mailto:adinapol@asu.edu" },
-                _react2.default.createElement("img", { src: "./assets/img/email.svg", style: { width: "40px", maxWidth: "10%", maxHeight: "10%" } })
+                _react2.default.createElement("img", { src: "./assets/img/email.svg", style: { width: "35px", maxWidth: "10%", maxHeight: "10%" } })
             );
             var github = _react2.default.createElement(
                 "a",
                 { href: "https://github.com/allison-dinapoli" },
-                _react2.default.createElement("img", { src: "./assets/img/github.svg", style: { width: "40px", maxWidth: "10%", maxHeight: "10%" } })
+                _react2.default.createElement("img", { src: "./assets/img/github.svg", style: { width: "35px", maxWidth: "10%", maxHeight: "10%" } })
             );
             var socialMedia = _react2.default.createElement(
                 "div",
